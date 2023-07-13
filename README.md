@@ -4,7 +4,7 @@
 
 Solution to freeCodeCamp's Product Landing Page project using Bulma CSS customized in Node-Sass.  
 
-The original CSS file created by SASS (mystyles.css) is too large to submit on FreeCodeCamp, so you must submit a smaller file. You can create a copy, and delete unused CSS (submit.css) to use for submission.
+The original CSS file created by SASS (mystyles.css) is too large. The CSS file used for submission is submit.css which only contains a rule for a fixed navbar, a flexbox, and a media query.
 
 ### 📀 [Live Demo](https://not-josue.github.io/freeCodeCamp-product-landing-page-bulma/)
 
